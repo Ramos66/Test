@@ -1,0 +1,9 @@
+D:\Test\sonarTestFrm\sonarTestFrm\bin\Debug\sonarTestFrm.exe.config
+D:\Test\sonarTestFrm\sonarTestFrm\bin\Debug\sonarTestFrm.exe
+D:\Test\sonarTestFrm\sonarTestFrm\bin\Debug\sonarTestFrm.pdb
+D:\Test\sonarTestFrm\sonarTestFrm\obj\Debug\sonarTestFrm.csprojResolveAssemblyReference.cache
+D:\Test\sonarTestFrm\sonarTestFrm\obj\Debug\sonarTestFrm.Form1.resources
+D:\Test\sonarTestFrm\sonarTestFrm\obj\Debug\sonarTestFrm.Properties.Resources.resources
+D:\Test\sonarTestFrm\sonarTestFrm\obj\Debug\sonarTestFrm.csproj.GenerateResource.Cache
+D:\Test\sonarTestFrm\sonarTestFrm\obj\Debug\sonarTestFrm.exe
+D:\Test\sonarTestFrm\sonarTestFrm\obj\Debug\sonarTestFrm.pdb
